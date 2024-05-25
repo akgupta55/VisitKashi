@@ -1,0 +1,37 @@
+
+{
+    "slides":[
+        {
+            "id":"1",
+"src":"https://mytriphack.com/wp-content/uploads/2018/08/Sarnath-Stupa-and-ruins.jpg"
+    },
+     {
+            "id":"2",
+"src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/ed/5d/a-view-of-the-ghats-taken.jpg?w=1200&h=1200&s=1"
+    },
+     {
+            "id":"3",
+"src":"https://m.economictimes.com/thumb/msid-88646122,width-1200,height-900,resizemode-4,imgsize-90802/untitled-18.jpg"
+    },
+     
+     {
+            "id":"5",
+"src":"https://youtellme.ai/wp-content/uploads/2021/12/DJI_0660.jpg_Durga-Temple-Varanasi.jpg"
+    },
+     {
+            "id":"6",
+"src":"https://www.researchgate.net/publication/331651700/figure/fig3/AS:735303346184192@1552321387044/Assi-Ghat-in-Varanasi-Uttar-Pradesh-India.png"
+    },
+    
+     {
+            "id":"8",
+"src":"https://almashines.s3.dualstack.ap-southeast-1.amazonaws.com/assets/images/gallary_photos/t1665991827_4GjIgDzrLM.jpg"
+    },
+      {
+            "id":"4",
+"src":"https://upload.wikimedia.org/wikipedia/commons/8/89/Entrance_area_of_Ramnagar_Fort.jpg"
+    }
+
+    
+]
+}

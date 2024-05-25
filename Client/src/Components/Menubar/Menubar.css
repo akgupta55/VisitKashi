@@ -1,0 +1,75 @@
+.menubar {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.menubar h1 {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 800;
+  font-size: 55px;
+}
+
+.facilities {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  cursor: pointer;
+}
+
+.items:hover {
+  fill: chocolate; /* New color */
+  color: chocolate;
+  transition: fill 0.5s ease; /* Smooth color transition */
+  transition: color 0.5s ease; /* Smooth color transition */
+}
+
+.items p {
+  font-size: 18px;
+  font-weight: 580;
+}
+
+.searchPlace {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.searchPlace input {
+  height: 60px;
+  width: 80%;
+  border-radius: 30px;
+  border: 3px solid #777;
+  padding: 5px;
+  padding-left: 16px;
+  color: chocolate;
+  outline: none;
+  font-size: 20px;
+}
+
+.searchPlace button {
+  position: relative;
+  border: 1px solid chocolate;
+  background: chocolate;
+  color: #fff;
+  font-size: 20px;
+  height: 50px;
+  width: 100px;
+  border-radius: 30px;
+  right: 108px;
+}

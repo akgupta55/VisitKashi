@@ -1,0 +1,16 @@
+.responsive-map{
+   
+    height: 500px;
+    padding: 30px;
+    margin: 30px;
+    position: relative;
+
+}
+.responsive-map iframe{
+    border: 0;
+    height:80%;
+    width: 90%;
+    left: 40px;
+    padding: 15px;
+    position: absolute;
+}

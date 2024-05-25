@@ -1,0 +1,114 @@
+{
+    "Topdestination":[
+        {
+         "id":"1",
+         "src":"https://i0.wp.com/www.opindia.com/wp-content/uploads/2021/12/temple-1.jpg?resize=696%2C398&ssl=1",
+         "title":"Shri Kashi Vishwanath Temple",
+         "rate":"4.7",
+         "people":"(86T)",
+         "location":"Lahori tola, Varanasi, Domari, Uttar Pradesh"
+           },
+
+     
+
+     {
+         "id":"2",
+         "src":"https://i.pinimg.com/originals/e3/67/da/e367da3a0b14ff9ea2bd8ce57bcd75c0.jpg",
+         "title":"St. Mary's Cathedral",
+         "rate":"4.5",
+         "people":"(737H)",
+         
+         "location":"Chapel Rd, Patel Nagar, Varanasi cantonment, Varanasi"
+        
+
+    },
+
+     {
+         "id":"3",
+         "src":"https://i.pinimg.com/564x/3d/79/38/3d79385cf42ac13d7fe18e3f6566285b.jpg",
+         "title":"Tulsi Manas Mandir",
+         "rate":"4.6",
+         "people":"(7.9T)",
+         
+         "location":"Sankat Mochan Rd, Durgakund Rd, near Jalan, Varanasi"
+         
+
+    },
+
+{
+         "id":"4",
+         "src":"https://i.redd.it/gk25x4hjzr981.png",
+         "title":"Alamgir Masjid",
+         "rate":"4.1",
+         "people":"(538)",
+         
+         "location":"Panchganga Ghat, Ghasi Tola, Varanasi"
+
+    },
+
+   
+   {
+         "id":"5",
+         "src":"https://www.trawell.in/admin/images/upload/090544853Nepali_temple.jpg",
+         "title":"Nepali (Kathwala) Mandir",
+         "rate":"4.6",
+         "people":"(701)",
+        
+         "location":"Lalita Ghat , Lohori Tola, Varanasi, U.P"
+        
+
+    },
+
+     {
+         "id":"6",
+         "src":"https://www.templepurohit.com/wp-content/uploads/2015/11/189.jpg",
+         "title":"Sankat Mochan Mandir",
+         "rate":"4.8",
+         "people":"(4.8T)",
+
+         "location":"Saket Nagar Colony, Sankata Mochan Leprosy, Varanasi"
+       
+
+    },
+
+
+
+     {
+         "id":"7",
+         "src":"https://bhaktipooja.com/wp-content/uploads/2021/01/kaal-bhairav-ji-kashi.jpg",
+         "title":"Kaal Bhairav Mandir",
+         "rate":"4.7",
+         "people":"(22.455T)",
+         
+         "location":"Bhat Ki Gali Golghar, Bhat Ki Gali, Golghar, Ghasi Tola, AG Palace, Varanasi"
+        
+
+    },
+
+
+     {
+         "id":"8",
+         "src":"https://cdn.triptotemples.com/blogs/65bde5999cc6d325323cfced-annapurna-devi-mandir.png",
+         "title":"Maa Annapurna Mandir",
+         "rate":"4.8",
+         "people":"(8T)",
+         "location":"Annapurna Math Mandir, D 9/1, Vishwanath Gali, Godowlia, Varanasi"  
+
+    },
+
+
+    {
+         "id":"9",
+         "src":"https://i.pinimg.com/564x/bf/6a/79/bf6a79bf10fa01a21590c9085397b76a.jpg",
+         "title":"Durga Temple",
+         "rate":"4.8",
+         "people":"(238)",
+         
+         "location":"Durgakund, Naipokhari, Chetganj, Varanasi"
+
+    }
+
+
+  
+     ]
+}

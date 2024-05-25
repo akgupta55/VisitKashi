@@ -1,0 +1,11 @@
+.thingsInfo {
+  gap: 5px;
+  overflow-x: auto;
+  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+  display: grid;
+  grid-template-rows: repeat(8, 1fr);
+  scrollbar-width: none;
+  /* height: 600px; */
+  max-width: 1000px;
+  margin: auto;
+}

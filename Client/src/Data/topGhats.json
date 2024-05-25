@@ -1,0 +1,114 @@
+{
+    "Topdestination":[
+        {
+         "id":"1",
+         "src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/ed/5d/a-view-of-the-ghats-taken.jpg?w=1200&h=1200&s=1",
+         "title":"Assi Ghat",
+         "rate":"4.6",
+         "people":"(66.3T)",
+         "location":"Nagwa Rd, Assi ghat, Shivala, Varanasi"
+           },
+
+     
+
+     {
+         "id":"2",
+         "src":"https://qph.cf2.quoracdn.net/main-qimg-bb3f988a00a48250106e18dcc9ad7609-lq",
+         "title":"Dashashwamedh Ghat",
+         "rate":"4.6",
+         "people":"(61.8T)",
+         
+         "location":"Dashashwamedh Ghat Rd, Ghats of Varanasi, Godowlia, Varanasi"
+        
+
+    },
+
+     {
+         "id":"3",
+         "src":"https://feeds.abplive.com/onecms/images/uploaded-images/2023/12/09/9e6a1efe6e66305b67ddc94d2ceb23921702115954312487_original.jpg?impolicy=abp_cdn&imwidth=200",
+         "title":"Namo Ghat",
+         "rate":"4.5",
+         "people":"(8.1T)",
+         
+         "location":"Rajghat, Varanasi, Suzabad"
+         
+
+    },
+
+{
+         "id":"4",
+         "src":"https://www.myvaranasi.com/wp-content/uploads/2019/06/Manikarnika-Ghat-Varanasi.jpg",
+         "title":"Manikarnika Ghat",
+         "rate":"4.7",
+         "people":"(1.07T)",
+         
+         "location":"Golghar, Bazardiha, Maheshpur, Varanasi"
+
+    },
+
+   
+   {
+         "id":"5",
+         "src":"https://www.seawatersports.com/img/newimage/places/scindia-ghat.png",
+         "title":"Scindia Ghat",
+         "rate":"4.4",
+         "people":"(384)",
+        
+         "location":"Dattatreya math, Sindhia ghat, Varanasi"
+        
+
+    },
+
+     {
+         "id":"6",
+         "src":"https://www.varanasiguru.com/wp-content/uploads/2022/01/Tulsi-Ghat-view.png",
+         "title":"Tulsi Ghat",
+         "rate":"4.5",
+         "people":"(1.8T)",
+
+         "location":"Tulsi ghat, Assi Rd, Varanasi, Uttar Pradesh 221001"
+       
+
+    },
+
+
+
+     {
+         "id":"7",
+         "src":"https://visitkashi.in/backend/admin/product_images/168127889957.jpg",
+         "title":"Darbhanga Ghat",
+         "rate":"4.6",
+         "people":"(791)",
+         
+         "location":"Near Ahilyabai Ghat, Uttar Pradesh 221010"
+        
+
+    },
+
+
+     {
+         "id":"8",
+         "src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e2/c6/e9/caption.jpg?w=1200&h=-1&s=1",
+         "title":"Panchganga Ghat",
+         "rate":"4.5",
+         "people":"(813)",
+         "location":"Sonarpura Rd, Ghats of Varanasi, Bangali Tola, Varanasi, Domari, Uttar Pradesh 221001 "  
+
+    },
+
+
+    {
+         "id":"9",
+         "src":"https://visitkashi.in/backend/admin/product_images/168128041011.jpg",
+         "title":"Sitala Ghat",
+         "rate":"4.4",
+         "people":"(238)",
+         
+         "location":"Ghats of Varanasi, Ghasi Tola, Varanasi, Domari, U.P"
+
+    }
+
+
+  
+     ]
+}

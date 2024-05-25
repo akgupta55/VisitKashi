@@ -1,0 +1,142 @@
+{
+    "Topdestination":[
+        {
+         "id":"1",
+         "src":"https://temple.yatradham.org/Product/temple/temple_To4YlfIJ_202308271009080.jpg",
+         "title":"Shri Kashi Vishwanath Temple",
+         "rate":"4.7",
+         "people":"(86T)",
+         "type":"Hindu Temple",
+         "location":"Lahori tola, Varanasi, Domari, Uttar Pradesh",
+         "price":"Free"
+
+    },
+
+     {
+         "id":"2",
+         "src":"https://3.imimg.com/data3/RX/QY/MY-11251924/107.jpg",
+         "title":"Alamgir Masjid",
+         "rate":"4.1",
+         "people":"(538)",
+         "type":"Mosque",
+         "location":"Panchganga Ghat, Ghasi Tola, Varanasi",
+         "price":"Free"
+
+    },
+
+     {
+         "id":"3",
+         "src":"https://dnu1blog.com/wp-content/uploads/2022/01/4ac4abfe-76f6-4212-94a5-5e2e60542de8.jpeg?w=1280",
+         "title":"Assi Ghat",
+         "rate":"4.6",
+         "people":"(60T)",
+         "type":"Tourist Attraction",
+         "location":"Assi Ghat, Varanasi, U.P",
+         "price":"Free"
+
+    },
+
+     {
+         "id":"4",
+         "src":"https://assets.cntraveller.in/photos/60ba1e56e1b212c19a817ce3/master/pass/Bharat-Mata-Mandir-Varanasi-India-20-December-2019.jpg",
+         "title":"Bharat Mata Mandir",
+         "rate":"4.4",
+         "people":"(3.9T)",
+         "type":"Monument",
+         "location":"Mahatama Gandhi Kashi Vidyapith Campus",
+         "price":"Free"
+
+    },
+
+
+
+     {
+         "id":"5",
+         "src":"https://pbs.twimg.com/media/ElEABdvUUAEuk5X.jpg",
+         "title":"Durga Temple",
+         "rate":"4.8",
+         "people":"(238)",
+         "type":"Hindu temple",
+         "location":" Durgakund, Naipokhari, Chetganj, Varanasi",
+         "price":" Free"
+
+    },
+
+
+     {
+         "id":"6",
+         "src":"https://www.incredibleindia.org/content/dam/incredible-india/images/uttar-pradesh/varanasi/attraction/manikarnika-ghat/manikarnika-ghat-varanasi-1-attr-hero.jpg.transform/optimize-large/image.jpg",
+         "title":"Manikarnika Ghat",
+         "rate":"4.5",
+         "people":"(7.3T)",
+         "type":"Cremation Ground",
+         "location":"Lalita Ghat, Lahoti Tola, Varanasi",
+         "price":"Free"
+
+    },
+
+
+     {
+         "id":"7",
+         "src":"https://upload.wikimedia.org/wikipedia/commons/9/91/Lanka_gate_BHU.JPG",
+         "title":"Bararas Hindu University",
+         "rate":"4.5",
+         "people":"(5.7T)",
+         "type":"University",
+         "location":" Ajagara, Varanasi, U.P",
+         "price":"Free"
+
+    },
+
+
+     {
+         "id":"8",
+         "src":"https://www.mappls.com/place/Q799PO_1678190931843_0.png",
+         "title":"Funtasia Water Park",
+         "rate":"4.3",
+         "people":"(3T)",
+         "type":"Water park",
+         "location":" Chandmari Lodhan, Varanasi, U.P",
+         "price":"600 per head"
+
+    },
+
+
+     {
+         "id":"9",
+         "src":"https://www.connectingtraveller.com/images/localtip/1632660249images%20-%202021-09-26T181318.067.jpeg",
+         "title":"Ruchika Art Gallery",
+         "rate":"4.7",
+         "people":"(438)",
+         "type":"Art gallery",
+         "location":"SHWETABH Bhawan, Behind Lanka, Varanasi",
+         "price":"Free"
+
+    },
+
+     {
+         "id":"10",
+         "src":"https://cdn.britannica.com/19/256719-050-E4CE0DBA/Sarnath-site-Dhamekh-Stupa-Varanasi-Uttar-Pradesh-India.jpg",
+         "title":"Sarnath",
+         "rate":"4.5",
+         "people":"(3.1T)",
+         "type":"Attraction",
+         "location":" Sarnath, Varanasi, U.P",
+         "price":"Price"
+
+    },
+
+
+     {
+         "id":"11",
+         "src":"https://www.trawell.in/admin/images/upload/090544853Nepali_temple.jpg",
+         "title":"Nepali (Kathwala) Mandir",
+         "rate":"4.6",
+         "people":"(613)",
+         "type":"Hindu Temple",
+         "location":"Lalita Ghat , Lohori Tola, Varanasi, U.P",
+         "price":"Free"
+
+    }
+     ]
+}

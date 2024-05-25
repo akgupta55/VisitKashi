@@ -1,0 +1,93 @@
+{
+    "Topdestination":[
+        {
+         "id":"1",
+         "src":"https://data.agatetravel.com/images/photogallery/2019/sarnath-india.jpg",
+         "title":"Sarnath",
+         "rate":"4.5",
+         "people":"(3T)",
+         "location":"Sarnath, Varanasi, Uttar Pradesh 221007"
+           },
+
+     
+
+     {
+         "id":"2",
+         "src":"https://resize.indiatv.in/resize/newbucket/1200_-/2022/10/banaras-hindu-university-1666889720.jpg",
+         "title":"BHU",
+         "rate":"4.5",
+         "people":"(5897)",
+         
+         "location":"Ajagara, Varanasi, Uttar Pradesh 221005"
+        
+
+    },
+
+     {
+         "id":"3",
+         "src":"https://yometro.com/images/places/ramnagar-fort.jpg",
+         "title":"Ramnagar Fort", 
+         "rate":"4.1",
+         "people":"(32T)",
+         
+         "location":"Varanasi Rd, Ram nagar, Ramnagar, Uttar Pradesh 221008"
+         
+
+    },
+
+{
+         "id":"4",
+         "src":"https://rishikeshdaytour.com/blog/wp-content/uploads/2023/07/Dashashwamedh-Ghat-to-Assi-Ghat.jpg",
+         "title":"Dashashwamedh Ghat",
+         "rate":"4.6",
+         "people":"(61.7)",
+         
+         "location":"Dashashwamedh Ghat Rd, Ghats of Varanasi, Godowlia, Varanasi, Uttar Pradesh 221001"
+
+    },
+
+   
+   {
+         "id":"5",
+         "src":"https://kashibanaras.com/wp-content/uploads/2021/12/17-1024x852.jpeg",
+         "title":"Shri Kashi Vishwanath Temple",
+         "rate":"4.7",
+         "people":"(91.3T)",
+        
+         "location":"Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001"
+        
+
+    },
+
+     {
+         "id":"6",
+         "src":"https://res.cloudinary.com/chasset/c_fill,e_improve,f_webp,h_480,w_720/hbimages/desktop/1500609231841-Tibetan-Temple.jpg",
+         "title":"Tibetan Temple",
+         "rate":"4.4",
+         "people":"(633)",
+
+         "location":"Sarnath, Varanasi, Uttar Pradesh 221007"
+       
+
+    },
+
+
+
+     {
+         "id":"7",
+         "src":"https://www.tourmyindia.com/states/uttarpradesh/images/chaukhandi-stupa-sarnath1.jpg",
+         "title":"Chaukhandi Stupa",
+         "rate":"4.4",
+         "people":"(3.3T)",
+         
+         "location":"Rishpattan Rd, Near Sarnath, Varanasi, Uttar Pradesh 221007"        
+
+    }
+
+
+  
+
+
+  
+     ]
+}

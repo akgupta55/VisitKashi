@@ -1,0 +1,87 @@
+{
+    "Topdestination":[
+        {
+         "id":"1",
+         "src":"https://media.tacdn.com/media/attractions-splice-spp-674x446/07/72/68/de.jpg",
+         "title":"Boat Rides on the Ganges",
+         "rate":"4.7",
+         "people":"(86T)",
+         "type":"Hindu Temple",
+         "location":"Assi ghat, Shivala, Varanasi, Uttar Pradesh ",
+         "price":"₹200 per adult (price varies by group size)"
+
+    },
+
+     {
+         "id":"2",
+         "src":"https://thumbs.dreamstime.com/b/rajdari-devdari-waterfall-varanasi-overview-distance-kms-varanasi-chandauli-rajdari-devdari-waterfall-varanasi-179356914.jpg",
+         "title":"Devdari waterfall",
+         "rate":"4.1",
+         "people":"(538)",
+         
+         "location":"Chandraprabha Wildlife Sanctuary, Chandauli",
+         "price":"Free"
+
+    },
+
+     {
+         "id":"3",
+         "src":"https://varanasiadventures.com/assets/img/home1.jpg",
+         "title":"Water Sports Adventure",
+         "rate":"3.9",
+         "people":"(52)",
+        
+         "location":"Assi ghat, Katesar, Varanasi, Uttar Pradesh",
+         "price":"from ₹300 per adult (price varies by group size)  "
+
+    },
+
+     
+
+
+
+     {
+         "id":"5",
+         "src":"https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-97240352/97240352.jpg",
+         "title":"Hot Air Ballooning",
+         "rate":"4.8",
+         "people":"(238)",
+        
+         "location":"On the banks of the Ganga River at Assi Ghat",
+         "price":"from ₹500 for adults and 1000 for kids aged between 5 to 12 years."
+
+    },
+
+
+     {
+         "id":"6",
+         "src":"https://ayush.yoga/wp-content/uploads/2020/04/yoga-in-varanasi-hatha-yoga-asana-class-with-ayush-39.jpg?w=640",
+         "title":"Sunrise Yoga with Ayush",        
+          "rate":"4.5",
+         "people":"(7.3T)",
+        
+         "location":"Yogi Soul Guest House, Varanasi",
+         "price":"from ₹1,366.22 per adult (price varies by group size)"
+
+    },
+
+
+     
+
+
+     {
+         "id":"8",
+         "src":"https://www.holidify.com/images/cmsuploads/compressed/aj_20181220181920.PNG",
+         "title":"Lakhaniya Dari Waterfall",
+         "rate":"4.3",
+         "people":"(4.8T)",
+    
+         "location":"Latifpur, Uttar Pradesh 231301",
+         "price":" Rs. 50 per Person, Rs. 50 for Parking"
+
+    }
+
+
+    
+     ]
+}

@@ -1,0 +1,74 @@
+
+.TopdestinationCard {
+  width: 450px;
+  height: 500px;
+  border: 2px solid black;
+  margin: 15px;
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 8px;
+}
+
+.destinationImage img {
+  height: 350px;
+  width: 100%;
+  object-fit: cover;
+}
+.topimage {
+  height: 400px;
+   border-radius: 5px;
+}
+.destinationTitle {
+  font-weight: 600;
+  font-size: 2rem;
+  padding-left: 6px;
+  height: 39px;
+}
+.rate {
+  display: flex;
+  height: 25px;
+  margin: 0;
+  padding-left: 7px;
+  font-weight: 600;
+  font-size: 1.25rem;
+
+  gap: 4px;
+}
+.star {
+  color: gold;
+  margin-top: -5px;
+}
+.destinationType {
+  padding-left: 7px;
+
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+.destinationLocation {
+  display: flex;
+  height: 25px;
+  margin: 0;
+  padding-left: 7px;
+  font-weight: 600;
+  font-size: 1.25rem;
+  gap: 1.5px;
+}
+.locationIcon{
+  margin-top: -3px;
+  color: red;
+}
+
+.destinationLocationName{
+  height: 18px;
+  /* margin-top: -4px; */
+  
+}
+.destinationPrice{
+   
+  margin: 0;
+  padding-left: 7px;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+
+

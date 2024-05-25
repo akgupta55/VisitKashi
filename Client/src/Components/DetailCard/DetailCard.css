@@ -1,0 +1,31 @@
+  .detailCards {
+  padding: 15px;
+  
+}
+.divineImage {
+  height: 500px;
+}
+.divineImage img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+.TempleInfo{
+font-size: 1.2rem;
+padding: 7px;
+
+}
+.detailsFlex {
+  display: flex;
+  gap: 8px;
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+.divineTitle {
+  font-size: 2rem;
+}
+
+.HeadingDetails {
+  font-weight: 300;
+  font-size: 1.2rem;
+}

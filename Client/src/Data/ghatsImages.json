@@ -1,0 +1,46 @@
+
+{
+
+    "slides":[
+        {
+
+            "id":"1",
+            "src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/ed/5d/a-view-of-the-ghats-taken.jpg?w=1200&h=1200&s=1"
+    },
+
+      {
+
+            "id":"2",
+            "src":"https://static.toiimg.com/thumb/63201174.cms?resizemode=75&width=1200&height=900"
+    },
+
+      {
+
+            "id":"3",
+            "src":"https://varanasi.tourismindia.co.in/images/places-to-visit/headers/dashashwamedh-ghat-varanasi-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+      {
+
+            "id":"4",
+            "src":"https://www.incredibleindia.org/content/dam/incredible-india/images/uttar-pradesh/varanasi/attraction/manikarnika-ghat/manikarnika-ghat-varanasi-1-attr-hero.jpg.transform/optimize-large/image.jpg"
+    },
+
+      {
+
+            "id":"5",
+            "src":"https://www.trawell.in/admin/images/upload/090544477Scindhia-Ghat.jpg"
+    },
+
+      {
+
+            "id":"6",
+            "src":"https://www.hlimg.com/images/things2do/738X538/ttd_201812140652181544750538239941t.JPG"
+    }
+
+
+
+
+
+
+]
+}

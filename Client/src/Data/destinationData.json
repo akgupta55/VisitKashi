@@ -1,0 +1,63 @@
+{
+    "destination":[{
+        "id":"1",
+        "src":["https://i.pinimg.com/564x/99/9a/56/999a56f66f1bdd57fa3cb51acd355740.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Varanasi_Aurangzeb_Mosque.jpg",
+        "https://yometro.com/images/places/durga-temple.jpg",
+        "https://media.istockphoto.com/id/475450090/photo/temple-of-the-tibetan-community-in-sarnath-varanasi-u-p-india.jpg?s=612x612&w=0&k=20&c=ikfU1grvkaahl_k7I6Tf_tgCWva1ASoXFlR96S4EFts="],
+        "title":"Divine Places",
+        "link":"/divinePlaces"
+    },
+    {
+        "id":"2",
+        "src":[
+        "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/05/ksp_5403.jpg?w=1024",
+        "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/9e/06.jpg",
+        "https://static.toiimg.com/photo/107570888.cms",
+        "https://www.sotc.in/blog/wp-content/uploads/2024/04/Varanasi-Ghat-2.jpg",
+        "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2018/09/Temple-Varanasi.jpg"
+    
+    ],
+        "title":"Ghats" ,
+        "link":"/ghats"
+    },
+      {
+        "id":"3",
+        "src":["https://www.shutterstock.com/image-photo/varanasiuttar-pradeshindia-august-25-2020-600nw-1830432713.jpg",
+        "https://cdn.britannica.com/19/256719-050-E4CE0DBA/Sarnath-site-Dhamekh-Stupa-Varanasi-Uttar-Pradesh-India.jpg",
+       "https://static.javatpoint.com/tourist-places/images/tourist-places-in-varanasi5.jpg",
+       "https://www.travels2rajasthan.com/uploads/80426_varanasi2.jpg"],
+        "title":"Historical Places" ,
+        "link":"/historicalPlaces"
+
+    },
+
+    
+   {
+        "id":"4",
+        "src":["https://content3.jdmagicbox.com/comp/varanasi/d6/0542px542.x542.200109195413.s1d6/catalogue/funtasia-water-park-kanudih-varanasi-water-parks-w6md3yw052.jpg",
+        "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2022/04/Ganga-Aarti-Varanasi-1.jpg?fit=1200%2C800&ssl=1",
+        "https://visitkashi.com/images/boat/    varanasi-boat-booking.jpg",
+        "https://qph.cf2.quoracdn.net/main-qimg-f76f2b286beb7f2abc5f505052e8103e-lq"],
+        "title":"Adventure",
+        "link":"/adventure"
+
+
+    },
+       {
+        "id":"5",
+        "src":["https://content.jdmagicbox.com/comp/varanasi/f2/0542px542.x542.190822204741.x5f2/catalogue/deendayal-hastkala-sankul-bada-lalpur-varanasi-hw21jcx1l5.jpg?clr=",
+        "https://content.jdmagicbox.com/comp/varanasi/l5/0542px542.x542.190314110259.y3l5/catalogue/sampurnanand-university-chaukaghat-varanasi-museums-xn6z6nuap7.jpg?clr=",
+    "https://content.jdmagicbox.com/comp/varanasi/t7/0542px542.x542.190911025747.y4t7/catalogue/trade-facilitation-center-and-craft-museum-bada-lalpur-varanasi-0ffjhruzbb.jpg",
+   "https://kashi.gov.in/cmsadmin/storage/CMS/65d315e96b2201708332521.JPG","https://i2.wp.com/varanasivideos.com/wp-content/uploads/2019/01/Gallery-No-01-1024x576.jpg?resize=1024%2C576",
+   "https://pbs.twimg.com/media/E4EkLRNVgAIzwdS.jpg"],
+        "title":"Museum" ,
+        "link":"/museum"
+
+    }
+
+
+
+
+]
+}

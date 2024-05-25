@@ -1,0 +1,41 @@
+
+{
+    "header":[
+        {
+
+    "id":"1",
+    "image":"https://niraantentcityvaranasi.com/wp-content/uploads/2023/02/packagesbnr-2.jpg",
+    "title":"Destinations"
+
+},
+   {
+
+    "id":"2",
+    "image":"https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2024/01/30175223/brij-rama.jpg?tr=w-480,f-jpg,pr-true",
+    "title":"Hotels"
+
+},
+   {
+
+    "id":"3",
+    "image":"https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2022/07/Pizzeria-Vaatika-Cafe-Restaurant-Varanasi.jpg?resize=1200%2C799&ssl=1",
+    "title":"Food and Restaurants"
+
+},
+   {
+
+    "id":"4",
+    "image":"https://memorableindia.com/blog/wp-content/uploads/2019/09/sunrise-boat-ride-varanasi.jpg",
+    "title":"All Things To Do"
+
+},
+   {
+
+    "id":"5",
+    "image":"https://www.cozynuk.com/festivals/ganga1.jpg",
+    "title":"Events all around Kashi"
+
+}
+]
+
+}

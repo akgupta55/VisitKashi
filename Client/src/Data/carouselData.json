@@ -1,0 +1,48 @@
+{
+    "slides": [
+      {
+        "src": "https://images.indianexpress.com/2021/12/29-2.jpg?resize=728,405",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/ed/5d/a-view-of-the-ghats-taken.jpg?w=1200&h=1200&s=1",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2022%2F03%2F15%2Fpti03132022000051a-1-1091469-1647335461.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "alt": "Image 3 for carousel"
+      },
+  
+       {
+        "src": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/05/f4be812ead7c23c97422125a9c1b7be1_1000x1000.jpg",
+        "alt": "Image 4 for carousel"
+      },
+   {
+        "src": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6e/b4/af.jpg",
+        "alt": "Image 5 for carousel"
+      },
+  
+  
+      {
+        "src": "https://live.staticflickr.com/2772/4195206772_1f4b555694_c.jpg",
+        "alt": "Image 4 for carousel"
+      },
+       
+  
+       {
+        "src": "https://www.connectingtraveller.com/images/localtip/1632660249images%20-%202021-09-26T181318.067.jpeg",
+        "alt": "Image 7 for carousel"
+      },
+  
+      
+  
+  
+       
+  
+       {
+        "src": "https://cdn.britannica.com/19/256719-050-E4CE0DBA/Sarnath-site-Dhamekh-Stupa-Varanasi-Uttar-Pradesh-India.jpg",
+        "alt": "Image 8 for carousel"
+      }
+  
+    ]
+  }

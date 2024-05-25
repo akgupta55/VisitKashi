@@ -1,0 +1,93 @@
+{
+    "Topdestination":[
+        {
+         "id":"1",
+         "src":"https://cms.patrika.com/wp-content/uploads/2018/01/11/bharat_kala_bhavan.jpg",
+         "title":"Bharat Kala Bhawan",
+         "rate":"4.5",
+         "people":"(1.2T)",
+         "location":"Vishwanath Gali, Shyam Babu Katra, Sakshi Vinayak, Lahori Tola, Varanasi"
+           },
+
+     
+
+     {
+         "id":"2",
+         "src":"https://www.trawell.in/admin/images/upload/468456269Sarnath_Museum.jpg",
+         "title":"Archaeological Museum",
+         "rate":"4.5",
+         "people":"(707)",
+         
+         "location":"Jagatganj, Chaukaghat, Varanasi"
+        
+
+    },
+
+     {
+         "id":"3",
+         "src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/16/4a/80/galerie-de-ruchika.jpg?w=1200&h=-1&s=1",
+         "title":"Ruchika Art Gallery ",
+         "rate":"4.7",
+         "people":"(527)",
+         
+         "location":"Post office, Ruchika Art gallery SHWETABH Bhawan, Varanasi"
+         
+
+    },
+
+{
+         "id":"4",
+         "src":"https://content.jdmagicbox.com/comp/varanasi/i2/0542px542.x542.170315161141.e6i2/catalogue/kriti-gallery-mahmoorganj-varanasi-art-galleries-xqm2wiwsnc-250.jpg",
+         "title":"Kirti Art Gallery",
+         "rate":"4.0",
+         "people":"(72)",
+         
+         "location":" Mahmoorganj, opposite Akashwani, Varanasi"
+
+    },
+
+   
+   {
+         "id":"5",
+         "src":"https://www.varanasiguru.com/wp-content/uploads/2022/04/Manmandir-observatory-Varanasi.jpg",
+         "title":"Man Singh observatory ",
+         "rate":"4.5",
+         "people":"(2.1T)",
+        
+         "location":"Observatory, Mandir ghat, Dashashwamedh Ghat Rd,  Godowlia, Varanasi"
+        
+
+    },
+
+     {
+         "id":"6",
+         "src":"https://content.jdmagicbox.com/comp/varanasi/56/0542p542stdf000256/catalogue/banaras-toy-museum-shivala-varanasi-educational-toy-dealers-ljwm5hykuv-250.jpg",
+         "title":"Banaras Toy Museum",
+         "rate":"3.8",
+         "people":"(8)",
+
+         "location":"Vishwanath Gali, Near Sakshi Vinayak Mandir, Sakshi Vinayak, Lahori Tola, Varanasi"
+       
+
+    },
+
+
+
+     {
+         "id":"7",
+         "src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/58/71/e0/banarasi-pure-silk-saree.jpg?w=1200&h=-1&s=1",
+         "title":"Silk Museum",
+         "rate":"4.4",
+         "people":"(98)",
+         
+         "location":"Gurudham Colony, Jawahar Nagar Colony, Bhelupur, Varanasi"        
+
+    }
+
+
+  
+
+
+  
+     ]
+}

@@ -1,0 +1,23 @@
+
+.what-to h1 {
+    margin: 45px;
+    font-family: cursive;
+    font-size: 2.5em;
+    margin-bottom: 35px;
+  }
+ 
+  .img-card{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* grid-column-gap: 20px;
+    grid-row-gap: 20px; */
+    justify-content: space-evenly;
+    gap: 3rem;
+    padding: 0 2rem;
+    
+    width: 100%;
+
+
+  }
+
+ 
