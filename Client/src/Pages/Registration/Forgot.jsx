@@ -55,7 +55,7 @@ const Forgot = () => {
           <div className="box">
             <input
               className="name"
-              placeholder="What is your best sport ?"
+              placeholder="Enter the best Palce you visit"
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
               type="text"
