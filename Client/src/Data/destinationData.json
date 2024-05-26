@@ -6,7 +6,7 @@
         "https://yometro.com/images/places/durga-temple.jpg",
         "https://media.istockphoto.com/id/475450090/photo/temple-of-the-tibetan-community-in-sarnath-varanasi-u-p-india.jpg?s=612x612&w=0&k=20&c=ikfU1grvkaahl_k7I6Tf_tgCWva1ASoXFlR96S4EFts="],
         "title":"Divine Places",
-        "link":"/divinePlaces"
+        "link":"/divine-places"
     },
     {
         "id":"2",
@@ -28,7 +28,7 @@
        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-varanasi5.jpg",
        "https://www.travels2rajasthan.com/uploads/80426_varanasi2.jpg"],
         "title":"Historical Places" ,
-        "link":"/historicalPlaces"
+        "link":"/historical-places"
 
     },
 

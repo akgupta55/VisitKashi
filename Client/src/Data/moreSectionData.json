@@ -1,0 +1,67 @@
+
+
+
+{
+    "more":[
+        {
+
+
+    "image": "ramNagarfort",
+      "name": "Ramnagar Fort",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": 500,
+      "distance":"200"
+    },
+
+    {
+      "image": "devdari",
+      "name": "Devdari Waterfall",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": "500",
+      "distance": 200
+    },
+
+
+     {
+      "image": "vindhyachal",
+      "name": "Vindhyachal Temple",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": "500",
+      "distance": "200"
+    },
+
+     {
+      "image": "chunarFort",
+      "name": "Chunar Fort",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": "500",
+      "distance": "200"
+    },
+
+    {
+      "image": "vijyagrah",
+      "name": "Vijaygarh Fort",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": "500",
+      "distance": "200"
+    },
+
+{
+      "image": "chandra",
+      "name": "Chandra Prabha Wildlife Sanctuary",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": "500",
+      "distance": "200"
+    },
+
+
+{
+      "image": "vindhamWaterfall",
+      "name": "Vindham Waterfalls",
+      "description": "A picturesque beach perfect for a relaxing getaway.",
+      "cost": "500",
+      "distance": "90"
+    }
+
+]
+}

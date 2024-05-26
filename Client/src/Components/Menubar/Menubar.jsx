@@ -1,27 +1,22 @@
 import { Link } from "react-router-dom";
 import "./Menubar.css";
 
+import { FaPaperPlane } from "react-icons/fa";
+
 const Menubar = () => {
   return (
     <>
       <div className="menubar">
-        <h1>Where to?</h1>
+        <h1>Where to go?</h1>
         <div className="facilities">
           <div className="items">
-            <svg
-              viewBox="0 0 24 24"
-              width="24px"
-              height="24px"
-              className="d Vb egaXP UmNoP"
-            >
-              <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M3 21.2h-.75v.75H3v-.75zm0-12l-.416-.624-.334.223v.4H3zm9-6l.416-.624L12 2.299l-.416.277L12 3.2zm9.01 6h.75v-.402l-.334-.222-.416.624zm0 12v.75h.75v-.75h-.75zm-17.26 0v-12h-1.5v12h1.5zM3.416 9.824l9-6-.832-1.248-9 6 .832 1.248zm8.168-6l9.01 6 .832-1.248-9.01-6-.832 1.248zM20.26 9.2v12h1.5v-12h-1.5zm.75 11.25H3v1.5h18.01v-1.5z"
-              ></path>
-            </svg>
+            <FaPaperPlane />
             <p>
-              <Link to="/destination"> Destinations</Link>
+              <Link className="sign-btn" to="/destination">
+                {" "}
+                Destinations
+              </Link>
+              {/* Destinations */}
             </p>
           </div>
           <div className="items">
@@ -38,7 +33,30 @@ const Menubar = () => {
               ></path>
             </svg>
             <p>
-              <Link to="/hotels">Hotels</Link>
+              <Link className="sign-btn" to="/hotels">
+                Hotels
+              </Link>
+            </p>
+          </div>
+
+          <div className="items">
+            <svg
+              viewBox="0 0 24 24"
+              width="24px"
+              height="24px"
+              className="d Vb egaXP UmNoP"
+            >
+              <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M13.578 4.891L16.25 2.22l1.06 1.06-2.671 2.672c-.679.679-1.055 1.462-1.12 2.199-.043.5.054 1.003.327 1.472L18.75 4.72l1.06 1.06-4.906 4.906c.473.281.974.387 1.466.354.718-.047 1.467-.394 2.096-1.023A869.223 869.223 0 0021.02 7.45l.226-.228h.001l1.066 1.055-.227.23a983.524 983.524 0 01-2.56 2.57c-.849.849-1.927 1.384-3.057 1.459a4.026 4.026 0 01-2.647-.768L12.591 13l7.72 7.72-1.061 1.06-5.97-5.97-3 3-1.75-1.75-4.72 4.72-1.06-1.06L7.47 16 3.077 11.61a4.75 4.75 0 010-6.718l.702-.702 7.75 7.75 1.232-1.232a3.971 3.971 0 01-.737-2.686c.1-1.147.67-2.246 1.553-3.13zm-1.359 9.86L3.808 6.338a3.25 3.25 0 00.33 4.21l6.142 6.14 1.94-1.939z"
+              ></path>
+            </svg>
+            <p>
+              <Link className="sign-btn" to="/restaurants">
+                Restaurants{" "}
+              </Link>
+              {/* Restaurants */}
             </p>
           </div>
 
@@ -56,25 +74,13 @@ const Menubar = () => {
               ></path>
               <path d="M12 15a1 1 0 110 2 1 1 0 010-2zM12 11.5a1 1 0 110 2 1 1 0 010-2zM12 8a1 1 0 110 2 1 1 0 010-2z"></path>
             </svg>
-            <p>Things to do </p>
-          </div>
-          <div className="items">
-            <svg
-              viewBox="0 0 24 24"
-              width="24px"
-              height="24px"
-              className="d Vb egaXP UmNoP"
-            >
-              <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M13.578 4.891L16.25 2.22l1.06 1.06-2.671 2.672c-.679.679-1.055 1.462-1.12 2.199-.043.5.054 1.003.327 1.472L18.75 4.72l1.06 1.06-4.906 4.906c.473.281.974.387 1.466.354.718-.047 1.467-.394 2.096-1.023A869.223 869.223 0 0021.02 7.45l.226-.228h.001l1.066 1.055-.227.23a983.524 983.524 0 01-2.56 2.57c-.849.849-1.927 1.384-3.057 1.459a4.026 4.026 0 01-2.647-.768L12.591 13l7.72 7.72-1.061 1.06-5.97-5.97-3 3-1.75-1.75-4.72 4.72-1.06-1.06L7.47 16 3.077 11.61a4.75 4.75 0 010-6.718l.702-.702 7.75 7.75 1.232-1.232a3.971 3.971 0 01-.737-2.686c.1-1.147.67-2.246 1.553-3.13zm-1.359 9.86L3.808 6.338a3.25 3.25 0 00.33 4.21l6.142 6.14 1.94-1.939z"
-              ></path>
-            </svg>
             <p>
-              <Link to="/restaurants">Restaurants </Link>
+              <Link className="sign-btn" to="/thingToDo">
+                Things to do
+              </Link>
             </p>
           </div>
+
           <div className="items">
             <svg
               viewBox="0 0 24 24"
@@ -84,7 +90,11 @@ const Menubar = () => {
             >
               <path d="M3 21.2h-.75v.75H3v-.75zm0-12l-.416-.624-.334.223V9.2H3zm9-6l.416-.624L12 2.299l-.416.277L12 3.2zm9.01 6h.75v-.402l-.334-.222-.416.624zm0 12v.75h.75v-.75h-.75zm-17.26 0v-12h-1.5v12h1.5zM3.416 9.824l9-6-.832-1.248-9 6 .832 1.248zm8.168-6l9.01 6 .832-1.248-9.01-6-.832 1.248zM20.26 9.2v12h1.5v-12h-1.5zm.75 11.25H3v1.5h18.01v-1.5zM18 12.96h-6.99v1.5H18v-1.5zm-7.74.75c0 .69-.56 1.25-1.25 1.25v1.5a2.75 2.75 0 002.75-2.75h-1.5zm-1.25 1.25c-.69 0-1.25-.56-1.25-1.25h-1.5a2.75 2.75 0 002.75 2.75v-1.5zm-1.25-1.25c0-.69.56-1.25 1.25-1.25v-1.5a2.75 2.75 0 00-2.75 2.75h1.5zm1.25-1.25c.69 0 1.25.56 1.25 1.25h1.5a2.75 2.75 0 00-2.75-2.75v1.5zm5.24 1.25v3h1.5v-3h-1.5z"></path>
             </svg>
-            <p>Events & Festivals</p>
+            <p>
+              <Link className="sign-btn" to="/eventsFestivals">
+                Events & Festivals
+              </Link>
+            </p>
           </div>
         </div>
         <div className="searchPlace">

@@ -8,9 +8,9 @@ const Register = () => {
   const [password, setPassword] = useState("");
   const [phone, setPhone] = useState("");
   const [address, setAddress] = useState("");
+  const [answer, setAnswer] = useState("");
   const navigate = useNavigate();
 
-  // form function
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
@@ -22,6 +22,7 @@ const Register = () => {
           password,
           phone,
           address,
+          answer,
         }
       );
       if (res && res.data.success) {
@@ -34,70 +35,92 @@ const Register = () => {
 
   return (
     <>
-      <div className="form-container ">
-        <form onSubmit={handleSubmit}>
-          <h4 className="title">REGISTER FORM</h4>
-          <div className="mb-3">
+      <form className="main" onSubmit={handleSubmit}>
+        <div className="left-side">
+          <img
+            src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+            className="img-fluid"
+            alt="Sample image"
+          />
+        </div>
+        <div className="cn">
+          <h1>CREATE AN ACCOUNT</h1>
+          <div className="box">
             <input
-              type="text"
+              className="name"
+              placeholder="Enter Name"
               value={name}
               onChange={(e) => setName(e.target.value)}
-              className="form-control"
-              id="exampleInputEmail1"
-              placeholder="Enter Your Name"
+              type="text"
+              id="fname"
+              name="fname"
               required
-              autoFocus
             />
           </div>
-          <div className="mb-3">
+          <div className="box">
             <input
-              type="email"
+              className="name"
+              placeholder="Enter Email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              className="form-control"
-              id="exampleInputEmail1"
-              placeholder="Enter Your Email "
+              type="email"
+              id="fname"
+              name="fname"
               required
             />
           </div>
-          <div className="mb-3">
+          <div className="box">
             <input
               type="password"
+              placeholder="Enter Password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              className="form-control"
-              id="exampleInputPassword1"
-              placeholder="Enter Your Password"
+              id="password"
+              name="password"
               required
             />
           </div>
-          <div className="mb-3">
+          <div className="box">
             <input
-              type="text"
+              type="number"
+              placeholder="Enter Phone no."
               value={phone}
               onChange={(e) => setPhone(e.target.value)}
-              className="form-control"
-              id="exampleInputEmail1"
-              placeholder="Enter Your Phone"
+              id="fname"
+              name="fname"
               required
             />
           </div>
-          <div className="mb-3">
+          <div className="box">
             <input
-              type="text"
+              className="name"
+              placeholder="Enter Address"
               value={address}
               onChange={(e) => setAddress(e.target.value)}
-              className="form-control"
-              id="exampleInputEmail1"
-              placeholder="Enter Your Address"
+              type="text"
+              id="fname"
+              name="fname"
               required
             />
           </div>
-          <button type="submit" className="btn btn-primary">
-            REGISTER
+          <div className="box">
+            <input
+              className="name"
+              placeholder="Enter the best Palce you visit"
+              value={answer}
+              onChange={(e) => setAnswer(e.target.value)}
+              type="text"
+              id="fname"
+              name="fname"
+              required
+            />
+          </div>
+
+          <button type="submit" className="btn btn-primary btn-lg">
+            Register
           </button>
-        </form>
-      </div>
+        </div>
+      </form>
     </>
   );
 };

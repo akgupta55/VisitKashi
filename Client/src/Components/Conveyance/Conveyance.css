@@ -1,0 +1,107 @@
+* {
+  margin: 30px;
+  padding: 30px;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+.headingConveyance {
+   font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+  padding-bottom:20px ;
+}
+
+.conveyanceCard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 85%;
+  margin: auto;
+}
+.ConveyanceDetails {
+  display: flex;
+  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+}
+.ConveyanceDetails:hover {
+  box-shadow: 1px 7px 10px rgba(1, 2, 2, 0.786);
+}
+.ConveyanceDetails img {
+  object-fit: cover;
+  border-radius: 5px;
+  border: 0.1px solid rgba(0, 0, 0, 0.063);
+  height: 400px;
+  width: 500px;
+  min-height: 400px;
+}
+
+.ConveyanceDetails div {
+  
+padding: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-wrap: break-word;
+}
+.ConveyanceTitle {
+  text-align: center;
+  font-weight: 520;
+}
+.slide {
+  width: 100%;
+  height: 100%;
+}
+
+.slide-hidden {
+  display: none;
+}
+
+.arrow {
+  position: absolute;
+  filter: drop-shadow(0px 0px 5px #555);
+  width: 2rem;
+  height: 2rem;
+  color: white;
+}
+
+.arrow:hover {
+  cursor: pointer;
+}
+
+.arrow-left {
+  left: 1rem;
+}
+
+.arrow-right {
+  right: 1rem;
+}
+@media (max-width: 1040px) {
+  .conveyanceCard {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 80%;
+    margin: auto;
+  }
+  .ConveyanceDetails {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ConveyanceDetails img {
+    min-width: 100%;
+    height: 200px;
+  }
+  .ConveyanceDetails div {
+    height: 230px;
+    
+  }
+}

@@ -9,9 +9,9 @@
   top: 0;
 }
 .navbar .logo {
-  margin-left: 4%;
-  height: 80px;
-  width: 125px;
+  /* margin-left: 4%; */
+  height: 100px;
+  width: 200px;
 }
 
 .navbar .searchNone {
@@ -55,7 +55,7 @@
 }
 
 /* Apply the animation to the underline */
-.navbar li::after {
+.n1 li::after {
   content: "";
   display: block;
   width: 0;
@@ -65,7 +65,7 @@
 }
 
 /* Trigger the animation on hover */
-.navbar li:hover::after {
+.n1 li:hover::after {
   animation: underline 0.5s forwards;
 }
 
@@ -79,13 +79,24 @@
   background-color: #fff;
   color: #000;
 }
-.nav-right button {
+.nav-right .des {
   border: 1px solid black;
-  font-size: medium;
-  font-weight: 580;
+  font-size: 20px;
+  font-weight: 700px;
   color: rgb(244, 244, 244);
-  background: #000;
+  background: rgba(188, 93, 223, 0.911);
   cursor: pointer;
   border-radius: 20px;
+  width: 100px;
   padding: 10px 16px;
+}
+
+.navbar .sign-btn {
+  text-decoration: none;
+  color: #000;
+}
+
+.nav-link {
+  font-weight: 300 !important;
+  color: #000 !important;
 }

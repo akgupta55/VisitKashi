@@ -1,0 +1,32 @@
+{
+    "ways":[
+        {
+           "id":"1",
+"img":"https://i.pinimg.com/564x/a6/c6/65/a6c66545bcc4627096f65c066dbf8696.jpg",
+"heading":"Culture & Heritage",
+"link":"/culture-heritage"
+
+    },
+     {
+        "id":"2",
+"img":"https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/rc2whboe4wf4ut5cxom3/Explore%20Varanasi%20with%20a%20Full%20Day%20Private%20City%20Highlight%20Tour%20and%20Boat%20Ride.jpg",
+"heading":"Subah-e-Banaras",
+"link":"/sub-e-baranas"
+
+    },
+     {
+        "id":3,
+"img":"https://images.prabhasakshi.com/2021/8/2021_8$2021081117121079367_0_news_large_84.jpeg",
+"heading":"Nature & Adventure",
+"link":"nature-adventure"
+
+    },
+     {
+        "id":4,
+"img":"https://english.cdn.zeenews.com/sites/default/files/2023/01/14/1141340-ganga-vilas-tent-city-view.jpg",
+"heading":"Tent City",
+"link":"tent-city"
+
+    }
+]
+}

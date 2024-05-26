@@ -6,6 +6,7 @@ import { Topdestination } from "../../Data/topDestination.json";
 import TopDestination from "../../Components/Destination Container/TopDestinations/TopDestination";
 import VaranasiMap from "../../Components/Map/VaranasiMap";
 
+
 function Destinations({ headerOne }) {
   return (
     <div>
